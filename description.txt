@@ -1,0 +1,2 @@
+﻿<B>Hello Data Component</B>
+Simple demonstration component with a customizable property and input mapping.

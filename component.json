@@ -1,0 +1,21 @@
+{
+    "name": "HelloData",
+    "displayName": "Hello Data Component",
+    "version": "0.0.1",
+    "compatibility": 3,
+    "tags": [],
+    "libraries": [],
+    "displayType": "Block",
+    "properties": {
+        "Name": {
+            "type": "String",
+            "default": "World"
+        },
+        "Data": {
+          "type": "InputMapping",
+          "default": "",
+          "displayName": "Data"
+      }
+    },
+    "defaultData": {}
+}
