@@ -34,4 +34,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Robert Tucker - [@robertwtucker](https://twitter.com/robertwtucker)
 
-Project Link: [https://github.com/robertwtucker/dc-hello](https://github.com/robertwtucker/dc-hello)
+Project Link: [https://github.com/robertwtucker/dc-hello-data](https://github.com/robertwtucker/dc-hello-data)
